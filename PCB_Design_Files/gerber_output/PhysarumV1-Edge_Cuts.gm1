@@ -1,0 +1,26 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0-0)*
+G04 #@! TF.CreationDate,2022-02-18T10:32:57-06:00*
+G04 #@! TF.ProjectId,PhysarumV1,50687973-6172-4756-9d56-312e6b696361,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.0-0)) date 2022-02-18 10:32:57*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.100000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X0Y-6350000D02*
+X45000000Y-6350000D01*
+X45000000Y-6350000D02*
+X45000000Y-46000000D01*
+X45000000Y-46000000D02*
+X0Y-46000000D01*
+X0Y-46000000D02*
+X0Y-6350000D01*
+M02*
