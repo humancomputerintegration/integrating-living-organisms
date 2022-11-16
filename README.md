@@ -18,7 +18,7 @@ Below is a list of all the components required for to make this device. For the 
 * Acrylic Glue
 * PLA for 3D printing
 * Watch Strap - [Amazon Link](https://www.amazon.com/gp/product/B085PXB8CV/)
-* Neodynium Magnets (6mm x 2mm and 3mm x 2mm) - [Link 1](https://www.amazon.com/gp/product/B07KJ9H31P) [Link 2] (https://www.amazon.com/ETHCOOL-Magnets-Warhammer-Miniatures-Projects/dp/B09MVYGX1X)
+* Neodynium Magnets (6mm x 2mm and 3mm x 2mm) - [Link 1](https://www.amazon.com/gp/product/B07KJ9H31P) [Link 2](https://www.amazon.com/ETHCOOL-Magnets-Warhammer-Miniatures-Projects/dp/B09MVYGX1X)
 * Copper Tape
 
 #### Electronic Components
@@ -47,7 +47,7 @@ The slime mold wire enclosure is made by lasercutting acrylic pieces and binding
 ### PCB Design Files
 Our PCB was designed with KiCAD. You can find all KiCAD project files [here](./PCB_Design_Files). For an overview of what the PCB looks like, you can refer to the figure below.
 
-![PCB](./Images/PCB_labeled.png)
+![PCB](./Images/PCB-labeled.png)
 
 ## Slime Mold and How to Care for them
 The key to this device is growing a slime mold wire. For more information on how to grow and care for a slime mold - you can see the care instructions I've made [here](https://drive.google.com/file/d/1Qz3SxQu3I3aJ-D0hYsuum45GsUVl9gFx/view?usp=sharing). (Note these are somewhat specific to a provided kit at the UIST22 conference. If you'd like some slime mold and maybe a kit too, feel free to reach out!)
